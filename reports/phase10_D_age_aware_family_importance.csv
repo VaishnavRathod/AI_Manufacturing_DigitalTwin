@@ -1,0 +1,5 @@
+FeatureFamily,TotalMeanAbsoluteSHAP,MeanFeatureImportance,NumberFeatures,ImportanceShare
+Vibration,0.1485681,0.0030951686,48,0.4281422
+Cycle Age,0.10060435,0.10060435,1,0.2899207
+Electrical Current,0.088104814,0.001223678,72,0.25389966
+Process Context,0.009729182,0.0019458365,5,0.02803747

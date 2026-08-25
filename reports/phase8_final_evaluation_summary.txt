@@ -1,0 +1,27 @@
+AI MANUFACTURING DIGITAL TWIN
+PHASE 8 FINAL TEST EVALUATION
+======================================================================
+
+Final candidates were selected before locked-test evaluation.
+
+Locked test tools:
+2, 11, 102
+
+D_age_aware
+Features: 126
+CV MAE: 0.135096
+Test MAE: 0.131688
+CV RMSE: 0.178631
+Test RMSE: 0.177543
+CV R2: 0.622428
+Test R2: 0.643715
+
+B_current_based
+Features: 77
+CV MAE: 0.168860
+Test MAE: 0.137264
+CV RMSE: 0.217608
+Test RMSE: 0.174384
+CV R2: 0.439680
+Test R2: 0.656280
+

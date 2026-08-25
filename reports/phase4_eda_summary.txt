@@ -1,0 +1,29 @@
+AI MANUFACTURING DIGITAL TWIN
+PHASE 4 EDA SUMMARY
+=================================================================
+
+Training rows: 837
+Testing rows: 131
+
+Training tools:
+[np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(7), np.int64(8), np.int64(9), np.int64(10), np.int64(101), np.int64(103), np.int64(105)]
+
+Testing tools:
+[np.int64(2), np.int64(11), np.int64(102)]
+
+Top sensor features by absolute target correlation:
+Current - Driving axle X L2 - mean : -0.6918
+Current - Driving axle X L1 - mean : -0.6916
+Current - Driving axle X L3 - mean : -0.6903
+Current - Driving axle Y L3 - mean : -0.5422
+Current - Driving axle Y L2 - mean : -0.5385
+Current - Driving axle Y L1 - mean : -0.5156
+Current - Driving axle X L2 - std : -0.5083
+Current - Driving axle X L1 - std : -0.5064
+Current - Driving axle X L3 - std : -0.5057
+Current - Driving axle X L1 - max : -0.4856
+Current - Driving axle X L2 - max : -0.4849
+Current - Driving axle X L3 - max : -0.4811
+Current - Driving axle Y L1 - std : -0.4608
+Current - Driving axle Y L3 - std : -0.4568
+Current - Driving axle Y L2 - std : -0.4564

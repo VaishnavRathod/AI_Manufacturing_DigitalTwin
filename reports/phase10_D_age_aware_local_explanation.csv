@@ -1,0 +1,127 @@
+Feature,FeatureValue,SHAPValue,AbsoluteSHAP,FeatureFamily,Direction,Experiment,ToolIndex,NumberOfCycle,ActualHealth,PredictedHealth
+NumberOfCycle,79.0,-0.11629326,0.11629326,Cycle Age,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle -X - std,305.75596498103397,-0.06825406,0.06825406,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L1 - max,180198.0,0.0462122,0.0462122,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - X Driving axle -X - skew,0.2388084268885507,0.019442638,0.019442638,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+HardnessMean,38.33,-0.015040271,0.015040271,Process Context,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle -Z - std,133.022259905585,-0.007687184,0.007687184,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L3 - max,180483.0,0.00493716,0.00493716,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L2 - max,180079.0,0.004426966,0.004426966,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+MillingToolType,2.0,-0.0040909303,0.0040909303,Process Context,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L1 - mean,5864.3398217297035,0.0037062934,0.0037062934,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - X Driving axle +Z - std,38.70421047651505,-0.0036407316,0.0036407316,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L3 - mean,5952.173163093231,0.0035614972,0.0035614972,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle +Y - kurtosis,66.64954884556792,0.0029290547,0.0029290547,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L3 - kurtosis,0.0140157488469139,0.0028972204,0.0028972204,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L1 - mean,166437.59474825344,0.0025235622,0.0025235622,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L2 - std,18573.091415271698,0.0024452575,0.0024452575,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L1 - std,18371.743513592897,0.0021617925,0.0021617925,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L1 - std,2891.3186612976065,0.0018289007,0.0018289007,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle -X - mean,-4.333268446305824,0.001614558,0.001614558,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L3 - std,18298.255349221785,0.0015363619,0.0015363619,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L2 - skew,0.7716607457518062,0.0012388547,0.0012388547,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - X Driving axle -X - std,47.592092609862576,-0.0011887503,0.0011887503,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle -X - max,1938.0,0.001132655,0.001132655,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - X Driving axle +Z - min,-223.0,-0.0010649044,0.0010649044,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L3 - min,475.0,-0.0010261035,0.0010261035,Electrical Current,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle +Z - std,18.097016633044888,0.0009916532,0.0009916532,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L2 - std,2922.323801072047,0.00082642614,0.00082642614,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L1 - kurtosis,0.0120844761318656,0.00071782456,0.00071782456,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle -Z - max,732.0,-0.0007027666,0.0007027666,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle +Z - skew,-0.0388644870516479,0.00066059217,0.00066059217,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle +Y - std,17.94662928941162,0.0005786711,0.0005786711,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle -Z - kurtosis,0.4620533202506762,-0.00055863464,0.00055863464,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L3 - mean,166693.76641773066,0.0004969692,0.0004969692,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle -Z - skew,-0.0415753058247546,-0.00044602854,0.00044602854,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle -X - kurtosis,0.4152448668801445,0.0003838666,0.0003838666,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L2 - mean,166456.715104794,0.00036236603,0.00036236603,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L2 - kurtosis,-0.6799249165827566,-0.0003527525,0.0003527525,Electrical Current,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle -X - min,-1864.0,0.0003510284,0.0003510284,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - X Driving axle +Z - kurtosis,-0.4010320690824467,-0.00033265262,0.00033265262,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - X Driving axle +Z - max,161.0,-0.0002804822,0.0002804822,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L2 - mean,5973.981594796434,0.0002707335,0.0002707335,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle +Y - skew,-3.1847852071627183,0.000265973,0.000265973,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle -X - std,22.381572699855305,-0.00025199514,0.00025199514,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L1 - min,474.0,-0.00025131693,0.00025131693,Electrical Current,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle +Z - kurtosis,1.594736966542131,-0.00019803073,0.00019803073,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L3 - std,2894.0269541346047,-0.00018273006,0.00018273006,Electrical Current,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L2 - kurtosis,-0.0105744792498692,0.00016491412,0.00016491412,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L1 - kurtosis,0.0706165084556169,-0.00015375238,0.00015375238,Electrical Current,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L1 - skew,0.8094557354155405,-0.00015104434,0.00015104434,Electrical Current,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle -X - kurtosis,2.3281946906351116,-0.00013436553,0.00013436553,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle +Z - max,191.0,-0.000101149846,0.000101149846,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L1 - mean,542.3794266441821,9.842101e-05,9.842101e-05,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L1 - min,559.0,9.356158e-05,9.356158e-05,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle +Y - std,339.68545960517105,-3.6731974e-05,3.6731974e-05,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L2 - kurtosis,0.0635712940292378,-3.4085646e-05,3.4085646e-05,Electrical Current,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L1 - skew,-1.375314230857816,-2.555812e-05,2.555812e-05,Electrical Current,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle -X - mean,11.074248747953408,-1.9562827e-05,1.9562827e-05,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - X Driving axle +Z - skew,0.1645774496047759,-1.8188182e-05,1.8188182e-05,Vibration,Pushes health DOWN,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L2 - max,13660.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L3 - skew,0.7916575874506415,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L3 - max,13496.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L1 - skew,12.259401885007684,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L2 - skew,12.466579107362412,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - X Driving axle -X - max,187.0,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L3 - skew,13.265559196514769,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L1 - max,13434.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L1 - min,128165.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L2 - min,128229.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L3 - min,128747.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - X Driving axle -X - kurtosis,-0.2768082417663948,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle -X - max,315.0,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle +Y - kurtosis,0.8518873064063262,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle +Y - max,166.0,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle -X - min,-264.0,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L2 - skew,0.4152143980464111,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L2 - kurtosis,162.17401751053163,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+ToolHolderLength,80.0,0.0,0.0,Process Context,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L3 - min,652.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+RDOC,4.5,0.0,0.0,Process Context,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+ADOC,5.0,0.0,0.0,Process Context,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L2 - min,291.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L3 - kurtosis,183.09734156188077,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L1 - kurtosis,156.42893999165156,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L3 - kurtosis,0.0566047137695382,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L3 - kurtosis,-0.6463513897509876,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L1 - min,323.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L1 - kurtosis,-0.5784541508244927,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L2 - min,329.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L3 - min,365.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle +Y - max,1633.0,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L3 - skew,0.4236603349474431,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L2 - skew,-1.3745016391632772,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L1 - skew,0.3844969354903024,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle +Y - mean,-11.529378886596428,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle +Y - mean,-13.37494808234742,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle -Z - mean,17.115366565128106,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle X L2 - min,637.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - X Driving axle +Z - mean,-21.331923164765183,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - X Driving axle -X - mean,13.355255511944192,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle +Z - mean,5.767573703793289,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle -Z - min,-770.0,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Spindle L3 - skew,-1.3705220604799309,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle +Z - min,-178.0,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle +Y - min,-206.0,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L3 - mean,551.0872079017105,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L2 - mean,521.1879547097085,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L3 - mean,4597.233341363527,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L2 - mean,4429.315056612864,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L3 - max,25476.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L2 - max,24941.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L1 - max,24903.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L1 - std,4225.235014421092,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L2 - std,4409.5613909389995,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L3 - std,4230.127297125716,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L1 - std,1819.739757391408,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L2 - std,1789.919860819619,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Z L3 - std,1740.3958487211758,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L3 - max,18036.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L2 - max,18717.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle -X - skew,0.0154864371144811,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - X Driving axle -X - min,-182.0,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L1 - max,19277.0,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle +Y - skew,0.0268788965856776,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Y Driving axle -X - skew,0.0153191202292234,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Current - Driving axle Y L1 - mean,4612.648711153939,0.0,0.0,Electrical Current,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788
+Accelerometer - Spindle +Y - min,-15780.0,0.0,0.0,Vibration,Pushes health UP,D_age_aware,102,79,0.071428571,0.3858884572982788

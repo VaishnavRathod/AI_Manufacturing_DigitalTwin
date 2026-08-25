@@ -1,0 +1,78 @@
+Feature,MeanAbsoluteSHAP,FeatureFamily
+RDOC,0.07904232,Process Context
+HardnessMean,0.06666416,Process Context
+Current - Driving axle X L2 - mean,0.065212935,Electrical Current
+Current - Driving axle X L1 - mean,0.05754333,Electrical Current
+Current - Driving axle X L3 - kurtosis,0.03640104,Electrical Current
+Current - Driving axle X L3 - mean,0.029642489,Electrical Current
+Current - Driving axle X L2 - kurtosis,0.025493221,Electrical Current
+Current - Spindle L2 - std,0.021106197,Electrical Current
+Current - Driving axle Y L1 - min,0.018632954,Electrical Current
+Current - Driving axle X L1 - std,0.010958175,Electrical Current
+Current - Driving axle X L3 - std,0.010827953,Electrical Current
+Current - Spindle L2 - max,0.008745911,Electrical Current
+Current - Spindle L2 - min,0.008547618,Electrical Current
+Current - Spindle L1 - mean,0.008538266,Electrical Current
+Current - Driving axle X L2 - std,0.007428474,Electrical Current
+Current - Driving axle Z L1 - min,0.0063285404,Electrical Current
+Current - Spindle L1 - max,0.006305734,Electrical Current
+Current - Driving axle Y L3 - max,0.006255481,Electrical Current
+Current - Spindle L3 - skew,0.005955665,Electrical Current
+Current - Driving axle Z L2 - max,0.005899867,Electrical Current
+Current - Driving axle Y L1 - skew,0.0053559067,Electrical Current
+Current - Driving axle Z L3 - min,0.005243322,Electrical Current
+Current - Spindle L1 - std,0.005078052,Electrical Current
+Current - Spindle L3 - kurtosis,0.0048506083,Electrical Current
+Current - Driving axle Z L2 - kurtosis,0.00480298,Electrical Current
+Current - Driving axle Z L2 - min,0.004509516,Electrical Current
+Current - Spindle L3 - std,0.004405544,Electrical Current
+Current - Driving axle Y L2 - mean,0.004129697,Electrical Current
+Current - Driving axle X L1 - kurtosis,0.004097322,Electrical Current
+Current - Driving axle Z L1 - max,0.0040881005,Electrical Current
+Current - Driving axle X L2 - skew,0.0037271301,Electrical Current
+Current - Driving axle Y L2 - min,0.0034797164,Electrical Current
+Current - Driving axle Z L3 - max,0.0033920992,Electrical Current
+ADOC,0.003251425,Process Context
+Current - Driving axle X L2 - max,0.0032177109,Electrical Current
+Current - Driving axle Y L3 - min,0.0031122472,Electrical Current
+Current - Spindle L3 - max,0.0027691275,Electrical Current
+Current - Driving axle Y L3 - skew,0.002693522,Electrical Current
+Current - Spindle L2 - kurtosis,0.0026899367,Electrical Current
+Current - Driving axle Y L2 - max,0.0023547497,Electrical Current
+Current - Spindle L3 - min,0.0023473122,Electrical Current
+MillingToolType,0.0023436116,Process Context
+Current - Spindle L1 - kurtosis,0.0023273889,Electrical Current
+Current - Driving axle Y L2 - kurtosis,0.0022336172,Electrical Current
+ToolHolderLength,0.0022018435,Process Context
+Current - Driving axle Z L1 - kurtosis,0.0019963407,Electrical Current
+Current - Spindle L1 - skew,0.0019873017,Electrical Current
+Current - Driving axle X L3 - min,0.001928473,Electrical Current
+Current - Driving axle Z L3 - std,0.0015755383,Electrical Current
+Current - Driving axle Z L2 - skew,0.001547427,Electrical Current
+Current - Spindle L2 - skew,0.0014263032,Electrical Current
+Current - Driving axle X L3 - max,0.0013795849,Electrical Current
+Current - Driving axle Z L1 - skew,0.0012650992,Electrical Current
+Current - Driving axle Y L1 - kurtosis,0.0010847938,Electrical Current
+Current - Driving axle X L1 - min,0.00096010807,Electrical Current
+Current - Driving axle X L3 - skew,0.00083273184,Electrical Current
+Current - Driving axle Y L3 - kurtosis,0.0008124277,Electrical Current
+Current - Driving axle Y L3 - mean,0.0006948571,Electrical Current
+Current - Driving axle Y L2 - skew,0.0006845793,Electrical Current
+Current - Driving axle Z L1 - mean,0.0006462572,Electrical Current
+Current - Driving axle Z L3 - kurtosis,0.00057869003,Electrical Current
+Current - Driving axle Y L2 - std,0.00055896025,Electrical Current
+Current - Spindle L3 - mean,0.0005576908,Electrical Current
+Current - Driving axle Y L1 - max,0.0005162386,Electrical Current
+Current - Driving axle X L1 - skew,0.00049493276,Electrical Current
+Current - Spindle L1 - min,0.00047744007,Electrical Current
+Current - Driving axle X L1 - max,0.0004649074,Electrical Current
+Current - Driving axle Z L1 - std,0.00044854716,Electrical Current
+Current - Driving axle Y L3 - std,0.00040415212,Electrical Current
+Current - Driving axle Y L1 - std,0.00037565714,Electrical Current
+Current - Driving axle Z L2 - mean,0.0003558208,Electrical Current
+Current - Spindle L2 - mean,0.00030813337,Electrical Current
+Current - Driving axle Z L3 - skew,0.0002538933,Electrical Current
+Current - Driving axle X L2 - min,0.00023657586,Electrical Current
+Current - Driving axle Z L3 - mean,9.156587e-05,Electrical Current
+Current - Driving axle Y L1 - mean,3.696396e-05,Electrical Current
+Current - Driving axle Z L2 - std,0.0,Electrical Current

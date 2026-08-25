@@ -1,0 +1,15 @@
+AI MANUFACTURING DIGITAL TWIN
+PHASE 11 DIGITAL TWIN STATE ENGINE
+======================================================================
+
+Samples: 131
+
+The Digital Twin combines:
+1. Age-aware lifecycle health
+2. Current/context condition health
+3. Isolation Forest anomaly score
+4. SHAP degradation drivers
+
+Health-gap interpretation:
+Condition health substantially below lifecycle health may indicate unexpected/accelerated degradation.
+Condition health substantially above lifecycle health indicates the observed condition looks healthier than its lifecycle estimate.

@@ -1,0 +1,127 @@
+Feature,MeanAbsoluteSHAP,FeatureFamily
+NumberOfCycle,0.10060435,Cycle Age
+Accelerometer - Spindle -X - std,0.09706995,Vibration
+Current - Driving axle X L2 - mean,0.021498658,Electrical Current
+Current - Driving axle X L1 - mean,0.016545355,Electrical Current
+Current - Spindle L1 - max,0.01646581,Electrical Current
+Accelerometer - Spindle -Z - std,0.014179636,Vibration
+Accelerometer - X Driving axle -X - skew,0.012157118,Vibration
+HardnessMean,0.007959614,Process Context
+Current - Driving axle X L3 - mean,0.0058424985,Electrical Current
+Current - Driving axle X L3 - kurtosis,0.004505433,Electrical Current
+Current - Driving axle X L1 - std,0.004488704,Electrical Current
+Accelerometer - X Driving axle +Z - std,0.0042992393,Vibration
+Accelerometer - Spindle +Y - kurtosis,0.0037801245,Vibration
+Accelerometer - Y Driving axle -X - std,0.002464593,Vibration
+Current - Spindle L3 - max,0.0022055055,Electrical Current
+Current - Driving axle X L2 - std,0.0021646193,Electrical Current
+Accelerometer - Spindle -Z - max,0.0020312713,Vibration
+Current - Driving axle X L3 - std,0.001973438,Electrical Current
+MillingToolType,0.0017695692,Process Context
+Current - Driving axle X L1 - kurtosis,0.0017361714,Electrical Current
+Accelerometer - Spindle -X - max,0.0016832183,Vibration
+Accelerometer - Y Driving axle +Z - std,0.0016100276,Vibration
+Accelerometer - Spindle -X - mean,0.0015408843,Vibration
+Current - Spindle L2 - std,0.001491119,Electrical Current
+Current - Spindle L1 - mean,0.0014238755,Electrical Current
+Current - Spindle L1 - std,0.0013568872,Electrical Current
+Current - Spindle L2 - max,0.0012496026,Electrical Current
+Accelerometer - X Driving axle -X - std,0.0012248066,Vibration
+Accelerometer - X Driving axle +Z - min,0.0010806812,Vibration
+Current - Spindle L3 - std,0.0010295042,Electrical Current
+Accelerometer - Y Driving axle +Z - skew,0.00074234424,Vibration
+Current - Driving axle Y L2 - skew,0.00071721105,Electrical Current
+Accelerometer - Spindle -X - kurtosis,0.0006314932,Vibration
+Accelerometer - Spindle -X - min,0.000606145,Vibration
+Current - Driving axle X L2 - kurtosis,0.0005906638,Electrical Current
+Accelerometer - Spindle -Z - skew,0.00056538696,Vibration
+Accelerometer - Spindle +Y - skew,0.00056154426,Vibration
+Current - Driving axle Y L3 - min,0.0005320248,Electrical Current
+Accelerometer - Y Driving axle +Z - kurtosis,0.00048902794,Vibration
+Accelerometer - Y Driving axle +Y - std,0.0004812338,Vibration
+Accelerometer - X Driving axle +Z - max,0.00045736364,Vibration
+Current - Driving axle Y L1 - skew,0.00044604985,Electrical Current
+Current - Spindle L3 - mean,0.0004063979,Electrical Current
+Current - Spindle L2 - mean,0.00031805842,Electrical Current
+Current - Driving axle Y L1 - min,0.00027685156,Electrical Current
+Accelerometer - Spindle +Y - std,0.0002123231,Vibration
+Current - Driving axle X L1 - min,0.00020882017,Electrical Current
+Current - Spindle L1 - kurtosis,0.00019707055,Electrical Current
+Accelerometer - X Driving axle +Z - kurtosis,0.00019365737,Vibration
+Current - Driving axle Y L2 - kurtosis,0.00016073043,Electrical Current
+Accelerometer - Spindle -Z - kurtosis,0.00015431546,Vibration
+Accelerometer - Y Driving axle -X - kurtosis,0.00015238288,Vibration
+Current - Driving axle Z L1 - mean,0.00013714802,Electrical Current
+Accelerometer - Y Driving axle +Z - max,0.00012399835,Vibration
+Current - Spindle L2 - kurtosis,7.6565266e-05,Electrical Current
+Current - Spindle L1 - skew,6.004481e-05,Electrical Current
+Accelerometer - X Driving axle +Z - skew,3.9780036e-05,Vibration
+Accelerometer - Y Driving axle -X - mean,3.5542518e-05,Vibration
+Current - Driving axle Z L2 - kurtosis,0.0,Electrical Current
+Current - Spindle L3 - kurtosis,0.0,Electrical Current
+Accelerometer - Y Driving axle +Y - kurtosis,0.0,Vibration
+Accelerometer - X Driving axle -X - kurtosis,0.0,Vibration
+Accelerometer - X Driving axle -X - min,0.0,Vibration
+Current - Driving axle Y L3 - kurtosis,0.0,Electrical Current
+Accelerometer - Y Driving axle +Y - skew,0.0,Vibration
+Accelerometer - Y Driving axle -X - skew,0.0,Vibration
+Accelerometer - Spindle -X - skew,0.0,Vibration
+ToolHolderLength,0.0,Process Context
+Current - Driving axle Z L1 - kurtosis,0.0,Electrical Current
+Current - Spindle L2 - skew,0.0,Electrical Current
+RDOC,0.0,Process Context
+Current - Spindle L3 - skew,0.0,Electrical Current
+ADOC,0.0,Process Context
+Current - Driving axle Z L3 - skew,0.0,Electrical Current
+Current - Driving axle Z L2 - skew,0.0,Electrical Current
+Current - Driving axle Z L3 - kurtosis,0.0,Electrical Current
+Current - Driving axle Z L1 - skew,0.0,Electrical Current
+Current - Driving axle X L1 - skew,0.0,Electrical Current
+Current - Driving axle X L2 - skew,0.0,Electrical Current
+Current - Driving axle X L3 - skew,0.0,Electrical Current
+Current - Driving axle Y L3 - skew,0.0,Electrical Current
+Current - Driving axle Y L1 - kurtosis,0.0,Electrical Current
+Current - Driving axle X L2 - min,0.0,Electrical Current
+Current - Driving axle Z L3 - std,0.0,Electrical Current
+Current - Driving axle X L2 - max,0.0,Electrical Current
+Accelerometer - Spindle +Y - mean,0.0,Vibration
+Current - Driving axle Z L3 - max,0.0,Electrical Current
+Current - Driving axle Z L2 - max,0.0,Electrical Current
+Current - Driving axle Z L1 - max,0.0,Electrical Current
+Current - Driving axle Y L3 - max,0.0,Electrical Current
+Current - Driving axle Y L2 - max,0.0,Electrical Current
+Current - Driving axle Y L1 - max,0.0,Electrical Current
+Current - Driving axle X L3 - max,0.0,Electrical Current
+Current - Driving axle X L1 - max,0.0,Electrical Current
+Accelerometer - X Driving axle +Z - mean,0.0,Vibration
+Accelerometer - Y Driving axle -X - max,0.0,Vibration
+Accelerometer - Y Driving axle +Y - max,0.0,Vibration
+Accelerometer - X Driving axle -X - max,0.0,Vibration
+Accelerometer - Spindle +Y - max,0.0,Vibration
+Current - Driving axle Z L3 - min,0.0,Electrical Current
+Current - Driving axle Z L2 - min,0.0,Electrical Current
+Current - Driving axle Z L1 - min,0.0,Electrical Current
+Current - Driving axle Y L2 - min,0.0,Electrical Current
+Accelerometer - Spindle -Z - mean,0.0,Vibration
+Accelerometer - X Driving axle -X - mean,0.0,Vibration
+Current - Driving axle Z L2 - std,0.0,Electrical Current
+Accelerometer - Y Driving axle -X - min,0.0,Vibration
+Current - Driving axle Z L1 - std,0.0,Electrical Current
+Current - Driving axle Y L3 - std,0.0,Electrical Current
+Current - Driving axle Y L2 - std,0.0,Electrical Current
+Current - Driving axle Y L1 - std,0.0,Electrical Current
+Accelerometer - Y Driving axle +Z - min,0.0,Vibration
+Current - Driving axle X L3 - min,0.0,Electrical Current
+Accelerometer - Spindle -Z - min,0.0,Vibration
+Accelerometer - Y Driving axle +Y - min,0.0,Vibration
+Current - Driving axle Z L3 - mean,0.0,Electrical Current
+Accelerometer - Y Driving axle +Z - mean,0.0,Vibration
+Current - Driving axle Z L2 - mean,0.0,Electrical Current
+Current - Driving axle Y L3 - mean,0.0,Electrical Current
+Current - Driving axle Y L2 - mean,0.0,Electrical Current
+Current - Driving axle Y L1 - mean,0.0,Electrical Current
+Current - Spindle L1 - min,0.0,Electrical Current
+Current - Spindle L2 - min,0.0,Electrical Current
+Current - Spindle L3 - min,0.0,Electrical Current
+Accelerometer - Y Driving axle +Y - mean,0.0,Vibration
+Accelerometer - Spindle +Y - min,0.0,Vibration

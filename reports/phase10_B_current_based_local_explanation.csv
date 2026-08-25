@@ -1,0 +1,78 @@
+Feature,FeatureValue,SHAPValue,AbsoluteSHAP,FeatureFamily,Direction,Experiment,ToolIndex,NumberOfCycle,ActualHealth,PredictedHealth
+HardnessMean,38.33,-0.07674299,0.07674299,Process Context,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L2 - mean,5973.981594796434,-0.054877717,0.054877717,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+RDOC,4.5,-0.044854186,0.044854186,Process Context,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L1 - mean,5864.3398217297035,-0.030861717,0.030861717,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L1 - min,474.0,-0.024913684,0.024913684,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L2 - std,18573.091415271698,0.023103261,0.023103261,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L3 - mean,5952.173163093231,-0.016003741,0.016003741,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L2 - kurtosis,-0.0105744792498692,-0.014880177,0.014880177,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L3 - min,475.0,-0.012341947,0.012341947,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L3 - kurtosis,0.0140157488469139,0.011516451,0.011516451,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L3 - skew,-1.3705220604799309,0.0074487254,0.0074487254,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L3 - min,365.0,-0.006256313,0.006256313,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L1 - mean,166437.59474825344,0.0055484073,0.0055484073,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L1 - min,323.0,-0.0055207238,0.0055207238,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L2 - min,329.0,-0.005354395,0.005354395,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L1 - skew,0.8094557354155405,0.0047876644,0.0047876644,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L2 - min,128229.0,-0.004286435,0.004286435,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L1 - std,2891.3186612976065,0.0040680976,0.0040680976,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L3 - max,18036.0,0.0037254216,0.0037254216,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L1 - kurtosis,0.0120844761318656,-0.0036605112,0.0036605112,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L1 - kurtosis,-0.5784541508244927,0.0036552937,0.0036552937,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L3 - std,2894.0269541346047,0.0034331942,0.0034331942,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L2 - skew,-1.3745016391632772,0.003261994,0.003261994,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L2 - max,24941.0,0.0032072177,0.0032072177,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L1 - max,24903.0,0.003069207,0.003069207,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L3 - std,18298.255349221785,0.0029827608,0.0029827608,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L2 - kurtosis,162.17401751053163,0.0029420312,0.0029420312,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L3 - std,1740.3958487211758,0.0028119816,0.0028119816,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L3 - max,25476.0,0.002802725,0.002802725,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+MillingToolType,2.0,-0.0026749023,0.0026749023,Process Context,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L3 - kurtosis,-0.6463513897509876,0.0026321893,0.0026321893,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L3 - min,128747.0,-0.0024830506,0.0024830506,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+ADOC,5.0,-0.0021035422,0.0021035422,Process Context,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L2 - kurtosis,0.0635712940292378,0.0020367645,0.0020367645,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L2 - min,291.0,-0.0018783606,0.0018783606,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L2 - max,180079.0,0.0018760909,0.0018760909,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L2 - std,2922.323801072047,0.0018587152,0.0018587152,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+ToolHolderLength,80.0,-0.0017210753,0.0017210753,Process Context,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L1 - std,18371.743513592897,-0.0016800488,0.0016800488,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L2 - skew,0.4152143980464111,0.0016797824,0.0016797824,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L2 - max,18717.0,0.0014499302,0.0014499302,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L1 - kurtosis,156.42893999165156,0.0013416403,0.0013416403,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L1 - max,180198.0,-0.0012217977,0.0012217977,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L3 - skew,0.7916575874506415,0.0011261809,0.0011261809,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L1 - min,128165.0,-0.0011002793,0.0011002793,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L3 - max,180483.0,0.0010807652,0.0010807652,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L3 - max,13496.0,-0.0010023792,0.0010023792,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L3 - min,652.0,-0.0009573421,0.0009573421,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L1 - skew,12.259401885007684,0.00088836876,0.00088836876,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L2 - mean,4429.315056612864,-0.00086830254,0.00086830254,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L2 - mean,166456.715104794,0.0007870146,0.0007870146,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L2 - kurtosis,-0.6799249165827566,-0.0007293869,0.0007293869,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L3 - kurtosis,0.0566047137695382,-0.00060444616,0.00060444616,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L3 - mean,166693.76641773066,0.0005969696,0.0005969696,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L1 - skew,-1.375314230857816,-0.0005924237,0.0005924237,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L3 - kurtosis,183.09734156188077,0.00046886667,0.00046886667,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Spindle L1 - kurtosis,0.0706165084556169,0.0003590322,0.0003590322,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L1 - skew,0.3844969354903024,-0.00034567126,0.00034567126,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L1 - std,1819.739757391408,-0.00032896252,0.00032896252,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L2 - skew,12.466579107362412,0.00032541392,0.00032541392,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L1 - mean,542.3794266441821,0.0002853233,0.0002853233,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L1 - min,559.0,-0.00027921234,0.00027921234,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L3 - mean,4597.233341363527,0.0002656759,0.0002656759,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L1 - max,19277.0,-0.00021828174,0.00021828174,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L1 - max,13434.0,0.00021424408,0.00021424408,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L3 - skew,0.4236603349474431,-0.00019098562,0.00019098562,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L2 - std,4409.5613909389995,0.00018942318,0.00018942318,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L1 - std,4225.235014421092,0.00018744262,0.00018744262,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L2 - max,13660.0,0.00017559045,0.00017559045,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L2 - skew,0.7716607457518062,0.0001603936,0.0001603936,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L3 - skew,13.265559196514769,0.00015953985,0.00015953985,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L2 - mean,521.1879547097085,0.00015364835,0.00015364835,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L3 - std,4230.127297125716,0.00014293389,0.00014293389,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle X L2 - min,637.0,-0.0001236687,0.0001236687,Electrical Current,Pushes health DOWN,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L3 - mean,551.0872079017105,6.9216025e-05,6.9216025e-05,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Y L1 - mean,4612.648711153939,2.639325e-05,2.639325e-05,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603
+Current - Driving axle Z L2 - std,1789.919860819619,0.0,0.0,Electrical Current,Pushes health UP,B_current_based,102,79,0.071428571,0.287105917930603

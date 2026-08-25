@@ -1,0 +1,34 @@
+AI MANUFACTURING DIGITAL TWIN
+PHASE 10 — SHAP EXPLAINABILITY
+======================================================================
+
+SHAP interpretation:
+Positive SHAP values push predicted normalized tool health upward.
+Negative SHAP values push predicted normalized tool health downward.
+
+D_age_aware
+--------------------------------------------------
+NumberOfCycle | 0.100604
+Accelerometer - Spindle -X - std | 0.097070
+Current - Driving axle X L2 - mean | 0.021499
+Current - Driving axle X L1 - mean | 0.016545
+Current - Spindle L1 - max | 0.016466
+Accelerometer - Spindle -Z - std | 0.014180
+Accelerometer - X Driving axle -X - skew | 0.012157
+HardnessMean | 0.007960
+Current - Driving axle X L3 - mean | 0.005842
+Current - Driving axle X L3 - kurtosis | 0.004505
+
+B_current_based
+--------------------------------------------------
+RDOC | 0.079042
+HardnessMean | 0.066664
+Current - Driving axle X L2 - mean | 0.065213
+Current - Driving axle X L1 - mean | 0.057543
+Current - Driving axle X L3 - kurtosis | 0.036401
+Current - Driving axle X L3 - mean | 0.029642
+Current - Driving axle X L2 - kurtosis | 0.025493
+Current - Spindle L2 - std | 0.021106
+Current - Driving axle Y L1 - min | 0.018633
+Current - Driving axle X L1 - std | 0.010958
+

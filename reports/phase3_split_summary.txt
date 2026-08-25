@@ -1,0 +1,22 @@
+AI MANUFACTURING DIGITAL TWIN
+PHASE 3 SPLIT SUMMARY
+============================================================
+
+Full dataset rows: 968
+Training rows: 837
+Testing rows: 131
+
+Training tools (11):
+[3, 4, 5, 6, 7, 8, 9, 10, 101, 103, 105]
+
+Testing tools (3):
+[2, 11, 102]
+
+Split strategy:
+GroupShuffleSplit by ToolIndex
+test_size=0.2
+random_state=42
+
+Important:
+No tool appears in both training and testing data.
+CycleToFailure is excluded from model feature sets because it causes target leakage.

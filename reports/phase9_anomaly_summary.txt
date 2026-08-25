@@ -1,0 +1,12 @@
+AI MANUFACTURING DIGITAL TWIN
+PHASE 9 ANOMALY DETECTION
+======================================================================
+
+Method: Isolation Forest
+Sensor family: Electrical current
+Normal reference threshold: 0.7
+Contamination: 0.1
+
+Important interpretation:
+Anomaly detection is not a failure classifier.
+It measures deviation from healthier reference behavior.

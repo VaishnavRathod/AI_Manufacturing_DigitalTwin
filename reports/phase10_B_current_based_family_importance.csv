@@ -1,0 +1,3 @@
+FeatureFamily,TotalMeanAbsoluteSHAP,MeanFeatureImportance,NumberFeatures,ImportanceShare
+Electrical Current,0.44571146,0.006190437,72,0.74382585
+Process Context,0.15350336,0.030700672,5,0.25617418

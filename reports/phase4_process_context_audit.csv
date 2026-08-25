@@ -1,0 +1,6 @@
+feature,train_unique_values,test_unique_values,test_values_seen_in_train
+MillingToolType,"[1, 2]","[1, 2]",True
+ADOC,"[5, 10]","[5, 10]",True
+RDOC,"[4.5, 8.0]","[4.5, 8.0]",True
+HardnessMean,"[35.33, 37.33, 37.5, 37.83, 38.17, 38.33, 38.5, 39.0, 39.17, 39.33, 39.83, 40.0, 40.33, 41.33, 41.67]","[35.33, 36.67, 37.17, 38.33]",False
+ToolHolderLength,"[80, 160]","[80, 160]",True

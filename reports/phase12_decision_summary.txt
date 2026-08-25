@@ -1,0 +1,14 @@
+AI MANUFACTURING DIGITAL TWIN
+PHASE 12 — DECISION SUPPORT ENGINE
+======================================================================
+
+Decision states:
+WATCH: 46
+HIGH_RISK: 44
+CRITICAL: 22
+NORMAL: 19
+
+IMPORTANT:
+Decision thresholds are transparent prototype engineering rules and are not certified manufacturing limits.
+
+ActualHealth is retained only for retrospective experimental validation and is never used as an input to the decision engine.

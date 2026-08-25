@@ -1,0 +1,127 @@
+feature,unique_values,variance,constant
+ADOC,2,6.198873282914031,False
+Accelerometer - Spindle +Y - kurtosis,837,4876.7670235009255,False
+Accelerometer - Spindle +Y - max,645,14867237.997556208,False
+Accelerometer - Spindle +Y - mean,837,2725.8127222814587,False
+Accelerometer - Spindle +Y - min,799,13714673.607006682,False
+Accelerometer - Spindle +Y - skew,837,13.74728791928189,False
+Accelerometer - Spindle +Y - std,837,583925.8702664969,False
+Accelerometer - Spindle -X - kurtosis,837,94.07012393290648,False
+Accelerometer - Spindle -X - max,636,6528277.044917197,False
+Accelerometer - Spindle -X - mean,837,855.6689786651256,False
+Accelerometer - Spindle -X - min,639,6557939.350465608,False
+Accelerometer - Spindle -X - skew,837,0.27019691994559575,False
+Accelerometer - Spindle -X - std,837,210704.84706356953,False
+Accelerometer - Spindle -Z - kurtosis,837,2558.9967245137414,False
+Accelerometer - Spindle -Z - max,466,3124752.4813014125,False
+Accelerometer - Spindle -Z - mean,837,59.555350934125094,False
+Accelerometer - Spindle -Z - min,586,5667246.932114009,False
+Accelerometer - Spindle -Z - skew,837,0.28801275393087417,False
+Accelerometer - Spindle -Z - std,837,35194.58922771829,False
+Accelerometer - X Driving axle +Z - kurtosis,837,143.67809904467384,False
+Accelerometer - X Driving axle +Z - max,315,36717.565982404696,False
+Accelerometer - X Driving axle +Z - mean,837,12.424422614641545,False
+Accelerometer - X Driving axle +Z - min,301,33898.40295427392,False
+Accelerometer - X Driving axle +Z - skew,837,0.02154989269602585,False
+Accelerometer - X Driving axle +Z - std,837,440.95665770497715,False
+Accelerometer - X Driving axle -X - kurtosis,837,1840.6913230654845,False
+Accelerometer - X Driving axle -X - max,313,49964.75947934352,False
+Accelerometer - X Driving axle -X - mean,837,6.006392547488206,False
+Accelerometer - X Driving axle -X - min,313,49072.392910428556,False
+Accelerometer - X Driving axle -X - skew,837,0.09953122856103906,False
+Accelerometer - X Driving axle -X - std,837,612.5828738845189,False
+Accelerometer - Y Driving axle +Y - kurtosis,837,401.54883062939524,False
+Accelerometer - Y Driving axle +Y - max,249,15936.904254771827,False
+Accelerometer - Y Driving axle +Y - mean,837,7.719459441817927,False
+Accelerometer - Y Driving axle +Y - min,251,14295.823938307807,False
+Accelerometer - Y Driving axle +Y - skew,837,0.009726012388777216,False
+Accelerometer - Y Driving axle +Y - std,837,129.1923273769415,False
+Accelerometer - Y Driving axle +Z - kurtosis,837,763.5672650827429,False
+Accelerometer - Y Driving axle +Z - max,286,22904.9105686177,False
+Accelerometer - Y Driving axle +Z - mean,837,7.788750096801149,False
+Accelerometer - Y Driving axle +Z - min,274,23262.013816718405,False
+Accelerometer - Y Driving axle +Z - skew,837,0.01872418962643671,False
+Accelerometer - Y Driving axle +Z - std,837,162.0991096968535,False
+Accelerometer - Y Driving axle -X - kurtosis,837,1504.790692406871,False
+Accelerometer - Y Driving axle -X - max,357,39571.71513379408,False
+Accelerometer - Y Driving axle -X - mean,837,6.621002214356752,False
+Accelerometer - Y Driving axle -X - min,369,36522.91025992809,False
+Accelerometer - Y Driving axle -X - skew,837,0.020375067743846596,False
+Accelerometer - Y Driving axle -X - std,837,147.00091515870736,False
+Current - Driving axle X L1 - kurtosis,837,1.3986097212015234,False
+Current - Driving axle X L1 - max,814,40746430.878559224,False
+Current - Driving axle X L1 - mean,837,2434660.396571381,False
+Current - Driving axle X L1 - min,269,93798.00637386885,False
+Current - Driving axle X L1 - skew,837,0.48160569902130596,False
+Current - Driving axle X L1 - std,837,3459554.4474395975,False
+Current - Driving axle X L2 - kurtosis,837,1.5091981010272564,False
+Current - Driving axle X L2 - max,819,42239395.97906341,False
+Current - Driving axle X L2 - mean,837,2630593.714301393,False
+Current - Driving axle X L2 - min,262,93400.55636157842,False
+Current - Driving axle X L2 - skew,837,0.47450187435682906,False
+Current - Driving axle X L2 - std,837,3548916.051121339,False
+Current - Driving axle X L3 - kurtosis,837,1.4342596880524308,False
+Current - Driving axle X L3 - max,813,41789036.991659656,False
+Current - Driving axle X L3 - mean,837,2522887.400173217,False
+Current - Driving axle X L3 - min,258,95435.08877684598,False
+Current - Driving axle X L3 - skew,837,0.4806110937329171,False
+Current - Driving axle X L3 - std,837,3573720.502880878,False
+Current - Driving axle Y L1 - kurtosis,837,0.8717268238094187,False
+Current - Driving axle Y L1 - max,817,22033818.509460766,False
+Current - Driving axle Y L1 - mean,837,1448060.1451022236,False
+Current - Driving axle Y L1 - min,184,35581.2901110711,False
+Current - Driving axle Y L1 - skew,837,0.06588957934406181,False
+Current - Driving axle Y L1 - std,837,1486458.2074376447,False
+Current - Driving axle Y L2 - kurtosis,837,0.9618612328187593,False
+Current - Driving axle Y L2 - max,800,21861791.328857332,False
+Current - Driving axle Y L2 - mean,837,1364389.630742833,False
+Current - Driving axle Y L2 - min,194,35206.38851160159,False
+Current - Driving axle Y L2 - skew,837,0.062218241744455026,False
+Current - Driving axle Y L2 - std,837,1424810.267745538,False
+Current - Driving axle Y L3 - kurtosis,837,0.9745056564194094,False
+Current - Driving axle Y L3 - max,807,22533534.56237531,False
+Current - Driving axle Y L3 - mean,837,1358989.591691138,False
+Current - Driving axle Y L3 - min,195,27339.393513516603,False
+Current - Driving axle Y L3 - skew,837,0.06836963597240232,False
+Current - Driving axle Y L3 - std,837,1436328.5099912134,False
+Current - Driving axle Z L1 - kurtosis,837,404.0607936163946,False
+Current - Driving axle Z L1 - max,816,115212613.4392253,False
+Current - Driving axle Z L1 - mean,837,5797153.196757584,False
+Current - Driving axle Z L1 - min,69,133.86397077738337,False
+Current - Driving axle Z L1 - skew,837,4.262950014275784,False
+Current - Driving axle Z L1 - std,837,9449886.836034544,False
+Current - Driving axle Z L2 - kurtosis,837,370.86734504447975,False
+Current - Driving axle Z L2 - max,821,112728689.66752699,False
+Current - Driving axle Z L2 - mean,837,5958184.784350799,False
+Current - Driving axle Z L2 - min,76,186.5509194948923,False
+Current - Driving axle Z L2 - skew,837,4.000164770505519,False
+Current - Driving axle Z L2 - std,837,9453756.683846872,False
+Current - Driving axle Z L3 - kurtosis,837,397.5101590133405,False
+Current - Driving axle Z L3 - max,813,112743637.70484129,False
+Current - Driving axle Z L3 - mean,837,5867712.497422496,False
+Current - Driving axle Z L3 - min,73,183.76225755003344,False
+Current - Driving axle Z L3 - skew,837,4.1517847773570375,False
+Current - Driving axle Z L3 - std,837,9643968.276232664,False
+Current - Spindle L1 - kurtosis,837,29.807012336178353,False
+Current - Spindle L1 - max,835,8783243289.60435,False
+Current - Spindle L1 - mean,837,244070890.89865944,False
+Current - Spindle L1 - min,711,3849587012.2619996,False
+Current - Spindle L1 - skew,837,0.4122849106747089,False
+Current - Spindle L1 - std,837,347075676.43070436,False
+Current - Spindle L2 - kurtosis,837,30.993453095251294,False
+Current - Spindle L2 - max,837,8896549962.054743,False
+Current - Spindle L2 - mean,837,243392357.3251115,False
+Current - Spindle L2 - min,725,3859356186.2437477,False
+Current - Spindle L2 - skew,837,0.42030612452902616,False
+Current - Spindle L2 - std,837,347665360.8394091,False
+Current - Spindle L3 - kurtosis,837,30.382817708725863,False
+Current - Spindle L3 - max,834,8805162445.966843,False
+Current - Spindle L3 - mean,837,243930548.97991294,False
+Current - Spindle L3 - min,736,3844807668.154004,False
+Current - Spindle L3 - skew,837,0.4111726498471102,False
+Current - Spindle L3 - std,837,344770431.73487407,False
+HardnessMean,15,2.362227952987717,False
+MillingToolType,2,0.21835788559048327,False
+NumberOfCycle,149,1372.0348819262233,False
+RDOC,2,1.9322497756283834,False
+ToolHolderLength,2,112.77460513453718,False

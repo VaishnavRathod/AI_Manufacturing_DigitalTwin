@@ -1,0 +1,22 @@
+AI MANUFACTURING DIGITAL TWIN
+PHASE 6 BASELINE ML SUMMARY
+======================================================================
+
+Validation strategy:
+5-fold GroupKFold using ToolIndex as grouping variable.
+
+The locked external test tools were NOT used during Phase 6.
+
+Best overall baseline:
+Experiment: D_age_aware
+Model: RandomForest
+Features: 126
+CV MAE: 0.153251
+CV RMSE: 0.195002
+CV R2: 0.550050
+
+Best condition-based baseline:
+Model: RandomForest
+CV MAE: 0.175067
+CV RMSE: 0.220623
+CV R2: 0.424046
