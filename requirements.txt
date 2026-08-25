@@ -11,3 +11,4 @@ streamlit
 joblib
 pyarrow
 openpyxl
+pytest
