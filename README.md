@@ -32,6 +32,46 @@ The final application exposes these signals through an interactive **Streamlit D
 
 ---
 
+## Key Results
+
+### Final unseen-tool evaluation
+
+| Model | Features | Test MAE | Test RMSE | Test R² |
+|---|---:|---:|---:|---:|
+| **Current-based XGBoost** | 77 | 0.1373 | **0.1744** | **0.6563** |
+| **Age-aware XGBoost** | 126 | **0.1317** | 0.1775 | 0.6437 |
+
+### Additional Digital Twin findings
+
+- **72.1% anomaly rate** in the experimental `CRITICAL` health band, compared with 11.1% in `HEALTHY`.
+- **34 of 35** experimentally critical samples were escalated to `HIGH_RISK` or `CRITICAL` by the transparent decision-support rules (**97.1% retrospective severe-warning coverage**).
+- The **77-feature current/context model** slightly outperformed the larger 125-feature condition model during group-aware development evaluation.
+- All final model evaluation is performed on **completely unseen cutting tools**, not a random row-wise split.
+
+---
+
+## 🖥️ Digital Twin Dashboard Preview
+
+The interactive Streamlit dashboard turns model outputs into an engineering-oriented Digital Twin state by combining lifecycle prediction, electrical-condition monitoring, anomaly detection, SHAP explainability, and transparent decision support.
+
+<p align="center">
+  <img src="docs/images/dashboard-critical-decision.png"
+       alt="Critical Digital Twin Decision Support"
+       width="950">
+</p>
+
+The example above shows a **CRITICAL** operating state where multiple independent warning signals agree:
+
+- the lifecycle model indicates significant degradation;
+- the current-based condition model indicates significant degradation;
+- electrical-current behaviour is anomalous;
+- SHAP identifies the sensor variables pushing predicted health downward;
+- the decision engine recommends tool inspection and replacement preparation.
+
+> The dashboard is a research/portfolio prototype. Decision thresholds are transparent experimental rules and are not manufacturer-certified operating limits.
+
+---
+
 ## Why This Project Matters
 
 Traditional predictive-maintenance demonstrations often stop at a single model prediction. This project extends the workflow into a small Digital Twin decision system:
@@ -534,6 +574,33 @@ Decision confidence describes **agreement among independent warning signals**; i
 
 The dashboard turns the analytical pipeline into an interactive Digital Twin application.
 
+### Tool Health Trajectory
+
+The Digital Twin tracks two complementary health estimates across the machining lifecycle:
+
+- **Lifecycle Health** — age-aware XGBoost using sensor data, machining context, and `NumberOfCycle`;
+- **Condition Health** — current/context XGBoost without explicit cycle age.
+
+<p align="center">
+  <img src="docs/images/dashboard-health-trajectory.png"
+       alt="Digital Twin Health Trajectory"
+       width="950">
+</p>
+
+This view allows an engineer to inspect how the two virtual health estimates evolve over time and where their trajectories agree or diverge.
+
+### Anomaly Monitoring
+
+The Isolation Forest provides a separate unsupervised signal indicating how far the current electrical behaviour deviates from the healthier reference population.
+
+<p align="center">
+  <img src="docs/images/dashboard-anomaly-trajectory.png"
+       alt="CNC Tool Anomaly Score Across Tool Life"
+       width="950">
+</p>
+
+Higher anomaly scores indicate greater deviation from healthier electrical-current behaviour. In the experimental data, anomaly frequency increases strongly as the tool moves toward the critical health region.
+
 ### 1. Twin Explorer
 
 - choose a cutting tool and machining cycle;
@@ -587,6 +654,12 @@ ai-manufacturing-digital-twin/
 │
 ├── dashboard/
 │   └── app.py
+│
+├── docs/
+│   └── images/
+│       ├── dashboard-critical-decision.png
+│       ├── dashboard-health-trajectory.png
+│       └── dashboard-anomaly-trajectory.png
 │
 ├── data/
 │   ├── raw/                    # Source file (gitignored)
@@ -644,7 +717,7 @@ ai-manufacturing-digital-twin/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone <YOUR_REPOSITORY_URL>  # replace with your GitHub repository URL
 cd ai-manufacturing-digital-twin
 ```
 
